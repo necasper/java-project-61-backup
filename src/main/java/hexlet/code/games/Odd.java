@@ -2,7 +2,7 @@ package hexlet.code.games;
 
 import hexlet.code.IGame;
 
-public class OddEvenGame implements IGame {
+public class Odd implements IGame {
     private int number;
 
     @Override

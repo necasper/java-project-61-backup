@@ -13,4 +13,7 @@
 ### Progression
 ![img_3.png](img_3.png)
 
+### Prime
+![img_4.png](img_4.png)
+
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=necasper_java-project-61)
