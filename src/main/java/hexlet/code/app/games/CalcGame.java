@@ -1,6 +1,6 @@
-package hexlet.code.games;
+package hexlet.code.app.games;
 
-import hexlet.code.IGame;
+import hexlet.code.app.IGame;
 
 public class CalcGame implements IGame {
 
