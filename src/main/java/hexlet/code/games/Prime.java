@@ -12,7 +12,7 @@ public class Prime implements IGame {
 
     @Override
     public String getQuestion() {
-        number = createNumber(100);
+        number = createNumber(101);
         return String.valueOf(number);
     }
 
